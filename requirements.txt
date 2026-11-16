@@ -12,6 +12,7 @@ Entrando no ambiente:
 Instalando dependências:
     pip install selenium 
     pip install pytest
+    pip install pillow
 
 Preparando para inicializar os testes
     import time
@@ -21,6 +22,7 @@ Preparando para inicializar os testes
 	from selenium.webdriver.support.ui import WebDriverWait
 	from selenium.webdriver.support import expected_conditions as EC
     from selenium.webdriver.support.ui import Select
+    from PIL import Image
 
 
 Integrantes Projeto
