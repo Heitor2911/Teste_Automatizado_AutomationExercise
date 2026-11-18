@@ -1,0 +1,12 @@
+Relatório sobre os Testes
+
+Os teste foram feitos utilizando Python e Selenium, no site Automation Exercise,
+mas por conta da natureza do site ele apresenta instabilidades
+com anúncios que sobrepõem elementos da interface, impedindo que
+o selenium interaja com a página gerando falhas na execução.
+
+Foram estudadas maneiras para contornar esses anúncios e reduzi-los
+mas acabaram por não funcionar muito bem.
+
+Dessa forma, eventuais falhas ocorreram não devidas a erros de lógica
+mas sim as instabilidades do site.
